@@ -1,0 +1,9 @@
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\bin\Debug\Data.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\bin\Debug\Data.pdb
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\bin\Debug\Entity.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\bin\Debug\Entity.pdb
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\obj\Debug\Data.csproj.CopyComplete
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\obj\Debug\Data.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Data\obj\Debug\Data.pdb

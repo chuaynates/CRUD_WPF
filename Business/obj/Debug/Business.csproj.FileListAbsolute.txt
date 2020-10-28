@@ -1,0 +1,11 @@
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\bin\Debug\Business.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\bin\Debug\Business.pdb
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\bin\Debug\Data.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\bin\Debug\Entity.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\bin\Debug\Data.pdb
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\bin\Debug\Entity.pdb
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\obj\Debug\Business.csproj.CopyComplete
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\obj\Debug\Business.dll
+D:\CURSOS 2020-II\DAW\Tecsup-master\Business\obj\Debug\Business.pdb
